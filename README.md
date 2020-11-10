@@ -2,7 +2,7 @@
 ### Hi, I'm Yasin Z. 👋🏻 💻
 
 
-<a href="https://https//ysnz.github.io/portfolio/." target="_blank">
+<a href="https://ysnz.github.io/portfolio/" target="_blank">
   <img align="left" alt="Portfolio" width="22px" src="https://github.com/Ysnz/portfolio/blob/main/img/logo.png?raw=true" />My Portfolio
 </a>
 <hr>
