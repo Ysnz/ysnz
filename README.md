@@ -61,14 +61,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysnz )
 
 
+**Personal Stuffs:**
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on Upgrading Myself
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: I'm  Very Serioud guy.
+- 👨🏽‍💻 I’m currently working on [Own-Website](http://www.programmerspot.ninja/);
+- 🌱 I’m currently learning Everything; 
+- 👯 I’m looking to collaborate on [AI assistant](aipoc) ;
+- 🤔 I’m looking for help with statistics ;
+- 💬 Ask me about: Python and Web development;
+- ⚡️ Fun-Fact: lots of fun facts;
+- 📫 How to reach me: zehir.yasin@gmail.com;
+- 📝[My Resume](https://github.com/Ysnz/portfolio/blob/main/Resume.pdf)
 
 
