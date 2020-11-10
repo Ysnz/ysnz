@@ -43,7 +43,7 @@
 - 🤔 I’m looking for help with statistics ;
 - 💬 Ask me about: Python and Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: zehir.yasin@gmail.com;
+- 📫 How to reach me: [Contact](zehir.yasin@gmail.com)
 - 📝[My Resume](https://github.com/Ysnz/portfolio/blob/main/Resume.pdf)
  
 <br />
