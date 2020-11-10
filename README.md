@@ -2,6 +2,11 @@
 ### Hi, I'm Yasin Z. 🙏🏻 💻
 
 
+<a href="https://https//ysnz.github.io/portfolio/">
+  <img align="left" alt="Portfolio" width="22px" src="https://github.com/Ysnz/portfolio/blob/main/img/logo.png?raw=true" />
+</a>
+
+<br><hr>
 
 <a href="https://www.linkedin.com/in/yasin-z-848765b5/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
