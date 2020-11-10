@@ -7,7 +7,7 @@
 </a>
 <hr>
 <br>
-
+<div>
 ![](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
 ![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
 
@@ -26,7 +26,7 @@
   <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 
 <img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
-
+</div>
 <br>
 <br>
  I am an Electronic Science Engineer 💻. I have little bit experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQl, React, Javascript, AWS, DevOps etc.
