@@ -3,7 +3,7 @@
 
 
 <a href="https://https//ysnz.github.io/portfolio/">
-  <img align="left" alt="Portfolio" width="22px" src="https://github.com/Ysnz/portfolio/blob/main/img/logo.png?raw=true" />
+  <img align="left" alt="Portfolio" width="22px" src="https://github.com/Ysnz/portfolio/blob/main/img/logo.png?raw=true" />My Portfolio
 </a>
 
 <br><hr>
