@@ -36,7 +36,7 @@
 </a>
 
 <a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aws.svg" />
+  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
 </a>
 
 
@@ -48,6 +48,7 @@
 
 <br>
 <br>
+
  I am an Electronic Science Engineer 💻. I have little bit experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQl, React, Javascript, AWS, DevOps etc.
  
 <br> <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
