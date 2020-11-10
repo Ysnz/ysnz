@@ -63,9 +63,9 @@
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Own-Website](http://www.programmerspot.ninja/);
+- 👨🏽‍💻 I’m currently working on  Upgrading Myself;
 - 🌱 I’m currently learning Everything; 
-- 👯 I’m looking to collaborate on [AI assistant](aipoc) ;
+- 👯 I’m looking to collaborate.... ;
 - 🤔 I’m looking for help with statistics ;
 - 💬 Ask me about: Python and Web development;
 - ⚡️ Fun-Fact: lots of fun facts;
