@@ -24,6 +24,23 @@
 </a>
 
 <a>
+  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+</a>
+
+<a>
+  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
+</a>
+
+<a>
+  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+</a>
+
+<a>
+  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aws.svg" />
+</a>
+
+
+<a>
   <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 <a>
   
