@@ -49,7 +49,7 @@
 <br>
 <br>
 
- I am an Electronic Engineer 💻. I have little bit experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQl, React, Javascript, AWS, DevOps etc.
+ I am an Electronic Engineer 💻. I have little bit experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQL, React, Javascript, AWS, DevOps etc.
  
 <br> <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
