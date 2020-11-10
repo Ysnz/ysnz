@@ -16,15 +16,12 @@
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
-  <img align="left" alt="Deepanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-
+<a href="https://codeforces.com/profile/Brillianttyagi">
   <img align="left" alt="Deepanshu's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-
-
+</a>
+<a href="https://www.codechef.com/users/yesimaprogramr">
   <img align="left" alt="Deepanshu's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-
+</a>
 <img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
 
 <br/>
