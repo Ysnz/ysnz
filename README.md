@@ -35,7 +35,16 @@
  
  <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
+**Personal Stuffs:**
 
+- 👨🏽‍💻 I’m currently working on  Upgrading Myself;
+- 🌱 I’m currently learning Everything; 
+- 👯 I’m looking to collaborate.... ;
+- 🤔 I’m looking for help with statistics ;
+- 💬 Ask me about: Python and Web development;
+- ⚡️ Fun-Fact: lots of fun facts;
+- 📫 How to reach me: zehir.yasin@gmail.com;
+- 📝[My Resume](https://github.com/Ysnz/portfolio/blob/main/Resume.pdf)
  
 <br />
 
@@ -61,15 +70,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysnz )
 
 
-**Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on  Upgrading Myself;
-- 🌱 I’m currently learning Everything; 
-- 👯 I’m looking to collaborate.... ;
-- 🤔 I’m looking for help with statistics ;
-- 💬 Ask me about: Python and Web development;
-- ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: zehir.yasin@gmail.com;
-- 📝[My Resume](https://github.com/Ysnz/portfolio/blob/main/Resume.pdf)
 
 
