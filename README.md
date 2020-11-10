@@ -17,7 +17,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
-![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-_assistant?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
   <img align="left" alt="Deepanshu's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 
 
