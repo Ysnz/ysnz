@@ -8,7 +8,8 @@
 <hr>
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
+![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ysnz.ysnz)
+
 ![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
 
 <a href="https://www.linkedin.com/in/yasin-z-848765b5/">
@@ -119,6 +120,4 @@ My key contributions include:
 - 📬 Email: [zehir.yasin@gmail.com](mailto:zehir.yasin@gmail.com)
 - 🌐 Website: [ysnz.github.io](https://ysnz.github.io)
 - 💼 LinkedIn: [linkedin.com/in/yasin-z-848765b5](https://www.linkedin.com/in/yasin-z-848765b5/)
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
 
