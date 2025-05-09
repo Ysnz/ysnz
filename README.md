@@ -49,30 +49,50 @@
 <br>
 <br>
 
- I am an Electronic Engineer 💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQL, PostgreSQL React, Javascript, AWS, DevOps etc.
+I'm an **Electronics Engineer** turned **Full Stack Developer**, passionate about building scalable backend systems and intelligent web platforms. I specialize in developing APIs, automation tools, and cross-platform integrations for real-world applications.
  
 <br> <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-**Personal Stuffs:**
+### 💼 Work Experience
 
-- 👨🏽‍💻 I’m currently working on  Upgrading Myself;
-- 🌱 I’m currently learning Everything; 
-- 👯 I’m looking to collaborate.... ;
-- 🤔 I’m looking for help with statistics ;
-- 💬 Ask me about: Python and Web development;
-- ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: [Contact](zehir.yasin@gmail.com)
-- 📝[My Resume](https://github.com/Ysnz/portfolio/blob/main/Resume.pdf)
- 
+I have gained extensive experience as a **Backend Developer** by working with various international startups and technology companies.
+
+My key contributions include:
+- Building scalable backend systems using **Django**, **GraphQL**, and **REST APIs**
+- Integrating third-party services like **Stripe**, **Shopify**, **Zapier**, and **Zoho**
+- Optimizing performance in high-traffic environments with **PostgreSQL** and **Docker**
+- Developing admin panels, automation tools, and mobile-ready APIs
+- Ensuring code quality, security, and continuous deployment with modern DevOps practices
+- Collaborating effectively in remote, cross-functional teams across Europe and the US
+
 <br />
 
+### 🧪 Projects
+
+**Donation Platform**
+- Built with Django, GraphQL, PostgreSQL
+- Integrated Shopify, Zapier, Stripe, and Chrome Extensions
+- Automated donation, order, and notification workflows
+
+**MLHub App**
+- Developed ML-powered workflow automation features
+- Integrated advanced encryption and secure API endpoints
+
+**Welcome App**
+- Improved cross-border digital inclusion (1K+ users in EU)
+- Delivered mobile-first experience and admin tools
+
+**E-Commerce Management Panel**
+- Built scalable inventory & transaction management platform
+- Automated syncing of multichannel orders and fulfillment
+
+<br />
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -89,6 +109,16 @@
 
 <br />
 
-[![Github Stats By Ysnz](https://github-readme-stats.vercel.app/api?username=ysnz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://ysnz.github.io/)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysnz )
+![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysnz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysnz&layout=compact&theme=tokyonight)
+
+### 📫 Get in Touch
+
+- 📬 Email: [zehir.yasin@gmail.com](mailto:zehir.yasin@gmail.com)
+- 🌐 Website: [ysnz.github.io](https://ysnz.github.io)
+- 💼 LinkedIn: [linkedin.com/in/yasin-z-848765b5](https://www.linkedin.com/in/yasin-z-848765b5/)
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
+
