@@ -120,5 +120,5 @@ My key contributions include:
 - 🌐 Website: [ysnz.github.io](https://ysnz.github.io)
 - 💼 LinkedIn: [linkedin.com/in/yasin-z-848765b5](https://www.linkedin.com/in/yasin-z-848765b5/)
 
-[![Yasin Z. profile views](https://u8views.com/api/v1/github/profiles/55712458/views/day-week-month-total-count.svg)](https://u8views.com/github/Ysnz)
+[![Hits]](https://u8views.com/api/v1/github/profiles/55712458/views/day-week-month-total-count.svg)](https://u8views.com/github/Ysnz)
 
