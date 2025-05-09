@@ -8,9 +8,6 @@
 <hr>
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=ysnz&color=blue&style=flat)
-
-
 ![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
 
 <a href="https://www.linkedin.com/in/yasin-z-848765b5/">
@@ -122,4 +119,6 @@ My key contributions include:
 - 📬 Email: [zehir.yasin@gmail.com](mailto:zehir.yasin@gmail.com)
 - 🌐 Website: [ysnz.github.io](https://ysnz.github.io)
 - 💼 LinkedIn: [linkedin.com/in/yasin-z-848765b5](https://www.linkedin.com/in/yasin-z-848765b5/)
+
+[![Yasin Z. profile views](https://u8views.com/api/v1/github/profiles/55712458/views/day-week-month-total-count.svg)](https://u8views.com/github/Ysnz)
 
