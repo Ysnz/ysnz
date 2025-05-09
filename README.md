@@ -8,7 +8,7 @@
 <hr>
 <br>
 
-![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ysnz.ysnz)
+![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ysnz.ysnz&color=blue&style=flat)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
 
