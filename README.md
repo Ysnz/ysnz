@@ -48,13 +48,13 @@
 <br>
 <br>
 
-I'm an **Electronics Engineer** turned **Full Stack Developer**, passionate about building scalable backend systems and intelligent web platforms. I specialize in developing APIs, automation tools, and cross-platform integrations for real-world applications.
+I'm a **Full Stack Developer**, passionate about building scalable backend systems and intelligent web platforms. I specialize in developing APIs, automation tools, and cross-platform integrations for real-world applications.
  
 <br> <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ### 💼 Work Experience
 
-I have gained extensive experience as a **Backend Developer** by working with various international startups and technology companies.
+I have gained extensive experience as a **Full Stack Developer** by working with various international startups and technology companies.
 
 My key contributions include:
 - Building scalable backend systems using **Django**, **GraphQL**, and **REST APIs**
