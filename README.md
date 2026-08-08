@@ -21,7 +21,6 @@
 - 💳 5+ years designing high-uptime **donation, fintech, and administrative platforms** across Europe and the US (TrustMeUp, Nioya, Moodus, Nexi)
 - 🧠 Working with **LLMs since they first emerged** — fine-tuning, RAG, agentic workflows, prompt engineering
 - 🔌 Strong integrator: **Stripe · Shopify · Zapier · Zoho · Chrome Extensions · Blockchain**
-- 📫 Reach me: **zehir.yasin@gmail.com** · +90 539 631 1064
 
 ---
 
