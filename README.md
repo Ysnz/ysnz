@@ -105,15 +105,8 @@
 | **Nioya** *(2021)* | Back End Developer | EU migrant-integration platform | 1,000+ users across NL, GR, SE |
 | **Moodus** *(2021)* | Back End Developer | Online donation platform | ↑ transaction success 25% |
 | **Nexi** *(2020 – 2021)* | Software Developer | Admin dashboard & e-commerce APIs | 50K+ orders/mo synced · ↓ ops workload 25% |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ysnz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysnz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+| **Online Edu** *(2019 – 2020)* | Mentor (Remote) | Programming courses | Taught 500+ students · 70% completion rate |
+| **TN Group** *(2008 – 2019)* | Operation Manager | Strategic planning & data analysis | Team leadership · SQL/Excel/Access reporting |
 
 ---
 
