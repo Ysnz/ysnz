@@ -1,123 +1,109 @@
+<h1 align="center">Yasin Z.</h1>
+<p align="center"><b>Senior AI &amp; Full-Stack Engineer</b> · Execution AI · Türkiye 🇹🇷</p>
 
-### Hi, I'm Yasin Z. 👋🏻 💻
+<p align="center">
+  Building scalable backends and intelligent web platforms.<br/>
+  Python · Django · GraphQL · LLMs · Web3
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ysnz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fhzehir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ysnz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<a href="https://ysnz.github.io/portfolio/" target="_blank">
-  <img align="left" alt="Portfolio" width="22px" src="https://github.com/Ysnz/portfolio/blob/main/img/logo.png?raw=true" />My Portfolio
-</a>
-<hr>
-<br>
+---
 
-![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
+## About
 
-<a href="https://www.linkedin.com/in/yasin-z-848765b5/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 🧠 Senior AI & Full-Stack Engineer @ **Execution AI**
+- ⚙️ Backend-heavy full-stack: Django, FastAPI, GraphQL, PostgreSQL
+- 🤖 LLM/RAG pipelines, agents, and MLOps in production
+- ⛓️ Web3 & smart contracts (Solidity / EVM)
+- 💳 Payment & commerce integrations (Stripe, Shopify)
+- 📫 Reach me: **fhzehir@gmail.com**
 
-<a href="https://ysnz.github.io/">
-  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+---
 
-<a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
+## Currently Working On
 
-<a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-</a>
+- Production **RAG pipelines** and agentic workflows
+- Event-driven **Django + GraphQL** backends
+- **Next.js** frontends on top of Python services
+- Solidity contracts and on-chain data tooling
 
-<a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
-</a>
+---
 
-<a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-</a>
+## Tech Stack
 
-<a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-</a>
+**AI / ML**
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
+**Backend**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-<a>
-  <img align="left" alt="ysnz" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a>
-  
-<img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-<br>
-<br>
+**DevOps & Cloud**
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
 
-I'm a **Full Stack Developer**, passionate about building scalable backend systems and intelligent web platforms. I specialize in developing APIs, automation tools, and cross-platform integrations for real-world applications.
- 
-<br> <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+**Web3 & Integrations**
+<p>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
 
-### 💼 Work Experience
+---
 
-I have gained extensive experience as a **Full Stack Developer** by working with various international startups and technology companies.
+## GitHub Stats
 
-My key contributions include:
-- Building scalable backend systems using **Django**, **GraphQL**, and **REST APIs**
-- Integrating third-party services like **Stripe**, **Shopify**, **Zapier**, and **Zoho**
-- Optimizing performance in high-traffic environments with **PostgreSQL** and **Docker**
-- Developing admin panels, automation tools, and mobile-ready APIs
-- Ensuring code quality, security, and continuous deployment with modern DevOps practices
-- Collaborating effectively in remote, cross-functional teams across Europe and the US
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ysnz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysnz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-<br />
+---
 
-### 🧪 Projects
+## Featured Projects
 
-**Donation Platform**
-- Built with Django, GraphQL, PostgreSQL
-- Integrated Shopify, Zapier, Stripe, and Chrome Extensions
-- Automated donation, order, and notification workflows
+| Project | Stack | Highlights |
+|---|---|---|
+| **Donation Platform** | Django · GraphQL · PostgreSQL · Stripe | Multi-tenant giving platform with payment orchestration |
+| **MLHub** | Python · FastAPI · MLOps | ML automation & model-serving infrastructure |
+| **Welcome App** | Django · React | Cross-border digital inclusion platform |
+| **E-Commerce Panel** | Next.js · GraphQL · Shopify | Admin panel for multi-store commerce |
 
-**MLHub App**
-- Developed ML-powered workflow automation features
-- Integrated advanced encryption and secure API endpoints
+---
 
-**Welcome App**
-- Improved cross-border digital inclusion (1K+ users in EU)
-- Delivered mobile-first experience and admin tools
-
-**E-Commerce Management Panel**
-- Built scalable inventory & transaction management platform
-- Automated syncing of multichannel orders and fulfillment
-
-<br />
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
-
-<br />
-
-### 📊 GitHub Stats
-
-![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysnz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysnz&layout=compact&theme=tokyonight)
-
-### 📫 Get in Touch
-
-- 📬 Email: [zehir.yasin@gmail.com](mailto:zehir.yasin@gmail.com)
-- 🌐 Website: [ysnz.github.io](https://ysnz.github.io)
-- 💼 LinkedIn: [linkedin.com/in/yasin-z-848765b5](https://www.linkedin.com/in/yasin-z-848765b5/)
-
-[![Yasin Z. profile views](https://u8views.com/api/v1/github/profiles/55712458/views/day-week-month-total-count.svg)](https://u8views.com/github/Ysnz)
+<p align="center"><i>Build systems that outlive the hype.</i></p>
