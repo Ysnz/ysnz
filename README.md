@@ -110,14 +110,4 @@
 
 ---
 
-## Certifications & Education
-
-- 🎓 **B.Sc. Electronic Engineering** — TNC, İstanbul (2004 – 2008)
-- 📘 Advanced Django — LinkedIn Learning, 2022
-- ⛓️ Blockchain Specialization — Coursera, 2022
-- ⛓️ Blockchain A-Z — Udemy, 2022
-- 🖥️ Google IT Support Specialization — Google, 2020
-
----
-
 <p align="center"><i>Build systems that outlive the hype.</i></p>
