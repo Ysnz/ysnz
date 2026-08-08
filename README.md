@@ -105,7 +105,7 @@
 | **Nioya** *(2021)* | Back End Developer | EU migrant-integration platform | 1,000+ users across NL, GR, SE |
 | **Moodus** *(2021)* | Back End Developer | Online donation platform | ↑ transaction success 25% |
 | **Nexi** *(2020 – 2021)* | Software Developer | Admin dashboard & e-commerce APIs | 50K+ orders/mo synced · ↓ ops workload 25% |
-| **Online Edu** *(2019 – 2020)* | Mentor (Remote) | Programming courses | Taught 500+ students · 70% completion rate |
+| **Freelance** *(2019 – 2020)* | Programming Instructor (Remote) | Online Edu — full-stack & DevOps curriculum | Taught 500+ students globally · 70% completion rate |
 | **TN Group** *(2008 – 2019)* | Operation Manager | Strategic planning & data analysis | Team leadership · SQL/Excel/Access reporting |
 
 ---
