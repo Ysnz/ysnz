@@ -2,7 +2,7 @@
 <p align="center"><b>AI &amp; Full-Stack Engineer</b> · Execution AI · Çankaya, Ankara 🇹🇷</p>
 
 <p align="center">
-  6+ years building scalable <b>Django / Next.js</b> systems (GraphQL, REST, PostgreSQL).<br/>
+  Extensive experience building scalable <b>Django / Next.js</b> systems (GraphQL, REST, PostgreSQL).<br/>
   Shipping <b>LLM-powered</b> product features and process automation end-to-end.
 </p>
 
@@ -18,7 +18,7 @@
 
 - 🚀 **AI & Full-Stack Engineer @ Execution AI** — building **Svolgo**, an AI-driven business-process automation platform (Next.js + Django REST, Stripe, AWS EC2 + Cloudflare)
 - 📚 Previously shipped **ViviBook** — an AI-powered personalized book-generation platform on AWS EKS
-- 💳 5+ years designing high-uptime **donation, fintech, and administrative platforms** across Europe and the US (TrustMeUp, Nioya, Moodus, Nexi)
+- 💳 Proven track record designing high-uptime **donation, fintech, and administrative platforms** across Europe and the US (TrustMeUp, Nioya, Moodus, Nexi)
 - 🧠 Working with **LLMs since they first emerged** — fine-tuning, RAG, agentic workflows, prompt engineering
 - 🔌 Strong integrator: **Stripe · Shopify · Zapier · Zoho · Chrome Extensions · Blockchain**
 
